@@ -8,8 +8,14 @@ public class DemoGitHub {
 		}
 
 	private void addToKart() {
-           
+        
 		System.out.println("This is Sanjita adding logic for add to kart");
+	}
+	
+		private void payment() {
+           
+		System.out.println("This is Amutha working on payment");
+
 
 	}
 	
